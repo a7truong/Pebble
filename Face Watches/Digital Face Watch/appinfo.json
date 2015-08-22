@@ -1,0 +1,44 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "andy.truong16@gmail.com",
+    "longName": "Face Watch - No Animation",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Digital Sans Text.ttf",
+                "name": "FONT_DIGITIAL_TEXT_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Digital Sans EF.ttf",
+                "name": "FONT_DIGITAL_35",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Digital Sans EF Medium.ttf",
+                "name": "FONT_DIGITAL_51",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Digital Sans banner.ttf",
+                "name": "FONT_TOP_BANNER_12",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Face Watch - No Animation",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "261ebb58-bf02-40b2-bf16-f3ea704d60d3",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
